@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevTask</string>
+    <string name="no_data">Data not Found</string>
+    <string name="error">there are Error occeur</string>
+    <string name="wantWhat">Type of Page to Open</string>
+    <string name="owner">Owner HTML</string>
+    <string name="repo_html">Repo Html</string>
+</resources>
